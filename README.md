@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/savygarg/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0328-odd-even-linked-list](https://github.com/savygarg/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
