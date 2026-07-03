@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/savygarg/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/savygarg/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
