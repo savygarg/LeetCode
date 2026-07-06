@@ -4,15 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/savygarg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/savygarg/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0328-odd-even-linked-list](https://github.com/savygarg/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/savygarg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/savygarg/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/savygarg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/savygarg/LeetCode/tree/master/0007-reverse-integer) |
 ## Array
 |  |
