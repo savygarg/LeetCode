@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/savygarg/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/savygarg/LeetCode/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/savygarg/LeetCode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
