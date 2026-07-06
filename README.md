@@ -39,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/savygarg/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/savygarg/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
