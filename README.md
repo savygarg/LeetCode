@@ -50,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/savygarg/LeetCode/tree/master/0443-string-compression) |
+| [0686-repeated-string-match](https://github.com/savygarg/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/savygarg/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/savygarg/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/savygarg/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
