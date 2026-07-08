@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/savygarg/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/savygarg/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/savygarg/LeetCode/tree/master/0136-single-number) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/savygarg/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0686-repeated-string-match](https://github.com/savygarg/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/savygarg/LeetCode/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/savygarg/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
