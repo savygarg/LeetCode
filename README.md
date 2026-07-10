@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/savygarg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/savygarg/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/savygarg/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/savygarg/LeetCode/tree/master/0029-divide-two-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/savygarg/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -68,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/savygarg/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/savygarg/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
