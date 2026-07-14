@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/savygarg/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/savygarg/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/savygarg/LeetCode/tree/master/0622-design-circular-queue) |
+| [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/savygarg/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/savygarg/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/savygarg/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/savygarg/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/savygarg/LeetCode/tree/master/0622-design-circular-queue) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
