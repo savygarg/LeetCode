@@ -108,13 +108,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/savygarg/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/savygarg/LeetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/savygarg/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/savygarg/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/savygarg/LeetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/savygarg/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/savygarg/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
