@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/savygarg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/savygarg/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/savygarg/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/savygarg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/savygarg/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/savygarg/LeetCode/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/savygarg/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/savygarg/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/savygarg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/savygarg/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/savygarg/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/savygarg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/savygarg/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
