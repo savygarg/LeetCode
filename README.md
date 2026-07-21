@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/savygarg/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/savygarg/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/savygarg/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/savygarg/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/savygarg/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/savygarg/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/savygarg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/savygarg/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/savygarg/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/savygarg/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/savygarg/LeetCode/tree/master/0443-string-compression) |
