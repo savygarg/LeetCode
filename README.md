@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/savygarg/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/savygarg/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/savygarg/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/savygarg/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/savygarg/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/savygarg/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/savygarg/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/savygarg/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/savygarg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/savygarg/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/savygarg/LeetCode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
