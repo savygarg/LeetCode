@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/savygarg/LeetCode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/savygarg/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/savygarg/LeetCode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/savygarg/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/savygarg/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -213,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
