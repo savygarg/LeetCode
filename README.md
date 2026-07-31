@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/savygarg/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/savygarg/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/savygarg/LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/savygarg/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/savygarg/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/savygarg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/savygarg/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/savygarg/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/savygarg/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/savygarg/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
