@@ -265,10 +265,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/savygarg/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/savygarg/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/savygarg/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
