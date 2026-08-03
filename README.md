@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/savygarg/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/savygarg/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/savygarg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/savygarg/LeetCode/tree/master/0169-majority-element) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Counting
 |  |
 | ------- |
@@ -260,8 +263,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
