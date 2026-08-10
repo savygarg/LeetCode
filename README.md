@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/savygarg/LeetCode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/savygarg/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/savygarg/LeetCode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/savygarg/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/savygarg/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
@@ -302,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
