@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/savygarg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/savygarg/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/savygarg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/savygarg/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/savygarg/LeetCode/tree/master/0414-third-maximum-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/savygarg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/savygarg/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/savygarg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/savygarg/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/savygarg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/savygarg/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/savygarg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/savygarg/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/savygarg/LeetCode/tree/master/0414-third-maximum-number) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/savygarg/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/savygarg/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/savygarg/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/savygarg/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -351,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -412,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/savygarg/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
