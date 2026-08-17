@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/savygarg/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/savygarg/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/savygarg/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/savygarg/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/savygarg/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/savygarg/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -364,8 +366,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/savygarg/LeetCode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/savygarg/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
