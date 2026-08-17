@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/savygarg/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/savygarg/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/savygarg/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/savygarg/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/savygarg/LeetCode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/savygarg/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/savygarg/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Stack
 |  |
 | ------- |
