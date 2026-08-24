@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/savygarg/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/savygarg/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/savygarg/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/savygarg/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/savygarg/LeetCode/tree/master/0169-majority-element) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
