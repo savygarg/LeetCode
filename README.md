@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/savygarg/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/savygarg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/savygarg/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/savygarg/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/savygarg/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/savygarg/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/savygarg/LeetCode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/savygarg/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/savygarg/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -504,4 +510,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
