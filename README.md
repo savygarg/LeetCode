@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/savygarg/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/savygarg/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/savygarg/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
+| [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/savygarg/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/savygarg/LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
+| [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/savygarg/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Tree
 |  |
@@ -563,4 +566,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/savygarg/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
