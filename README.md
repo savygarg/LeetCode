@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/savygarg/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/savygarg/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/savygarg/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/savygarg/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/savygarg/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/savygarg/LeetCode/tree/master/0189-rotate-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/savygarg/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/savygarg/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/savygarg/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/savygarg/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/savygarg/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/savygarg/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/savygarg/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/savygarg/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/savygarg/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/savygarg/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/savygarg/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/savygarg/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/savygarg/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
