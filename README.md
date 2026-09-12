@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/savygarg/LeetCode/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/savygarg/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/savygarg/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/savygarg/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/savygarg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/savygarg/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/savygarg/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0704-binary-search](https://github.com/savygarg/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/savygarg/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Trie
 |  |
