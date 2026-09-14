@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/savygarg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/savygarg/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/savygarg/LeetCode/tree/master/0641-design-circular-deque) |
+| [0643-maximum-average-subarray-i](https://github.com/savygarg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/savygarg/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/savygarg/LeetCode/tree/master/0704-binary-search) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/savygarg/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/savygarg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Backtracking
 |  |
 | ------- |
