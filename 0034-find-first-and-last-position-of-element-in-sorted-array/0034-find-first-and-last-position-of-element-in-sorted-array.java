@@ -6,8 +6,6 @@ class Solution {
 
         int low = 0;
         int high = nums.length - 1;
-
-        // Find first occurrence
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
@@ -25,8 +23,6 @@ class Solution {
 
         low = 0;
         high = nums.length - 1;
-
-        // Find last occurrence
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
