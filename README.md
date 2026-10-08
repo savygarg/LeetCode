@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/savygarg/LeetCode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/savygarg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/savygarg/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/savygarg/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/savygarg/LeetCode/tree/master/0724-find-pivot-index) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/savygarg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/savygarg/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/savygarg/LeetCode/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/savygarg/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/savygarg/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/savygarg/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/savygarg/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1668-maximum-repeating-substring](https://github.com/savygarg/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/savygarg/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/savygarg/LeetCode/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/savygarg/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -655,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/savygarg/LeetCode/tree/master/0686-repeated-string-match) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
