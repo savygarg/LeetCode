@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/savygarg/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/savygarg/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/savygarg/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/savygarg/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/savygarg/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/savygarg/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/savygarg/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/savygarg/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/savygarg/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/savygarg/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/savygarg/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/savygarg/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/savygarg/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/savygarg/LeetCode/tree/master/0502-ipo) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/savygarg/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/savygarg/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/savygarg/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/savygarg/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1668-maximum-repeating-substring](https://github.com/savygarg/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/savygarg/LeetCode/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/savygarg/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/savygarg/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/savygarg/LeetCode/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/savygarg/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
