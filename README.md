@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/savygarg/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/savygarg/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/savygarg/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/savygarg/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1668-maximum-repeating-substring](https://github.com/savygarg/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/savygarg/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## String Matching
 |  |
 | ------- |
