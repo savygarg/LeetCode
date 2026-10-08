@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/savygarg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/savygarg/LeetCode/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/savygarg/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/savygarg/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/savygarg/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/savygarg/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -667,4 +670,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
