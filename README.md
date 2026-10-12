@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/savygarg/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/savygarg/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/savygarg/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/savygarg/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/savygarg/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/savygarg/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/savygarg/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/savygarg/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/savygarg/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/savygarg/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/savygarg/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
 | ------- |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/savygarg/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/savygarg/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -683,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/savygarg/LeetCode/tree/master/1029-two-city-scheduling) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/savygarg/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
