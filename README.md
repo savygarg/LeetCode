@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/savygarg/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/savygarg/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/savygarg/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/savygarg/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/savygarg/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/savygarg/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/savygarg/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/savygarg/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/savygarg/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/savygarg/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/savygarg/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
@@ -711,4 +713,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/savygarg/LeetCode/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/savygarg/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
