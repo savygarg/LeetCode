@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/savygarg/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/savygarg/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/savygarg/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/savygarg/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/savygarg/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/savygarg/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/savygarg/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/savygarg/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/savygarg/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/savygarg/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/savygarg/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/savygarg/LeetCode/tree/master/0268-missing-number) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/savygarg/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/savygarg/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/savygarg/LeetCode/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/savygarg/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
