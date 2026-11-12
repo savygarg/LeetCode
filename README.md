@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/savygarg/LeetCode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/savygarg/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/savygarg/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/savygarg/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/savygarg/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1668-maximum-repeating-substring](https://github.com/savygarg/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/savygarg/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/savygarg/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/savygarg/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/savygarg/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1143-longest-common-subsequence](https://github.com/savygarg/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/savygarg/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Binary Search
 |  |
@@ -745,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/savygarg/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/savygarg/LeetCode/tree/master/0052-n-queens-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/savygarg/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
