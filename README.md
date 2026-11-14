@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/savygarg/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/savygarg/LeetCode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/savygarg/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/savygarg/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/savygarg/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/savygarg/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Lifting
 |  |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
