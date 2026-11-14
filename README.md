@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/savygarg/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/savygarg/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/savygarg/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/savygarg/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/savygarg/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/savygarg/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/savygarg/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/savygarg/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/savygarg/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/savygarg/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/savygarg/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/savygarg/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/savygarg/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/savygarg/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/savygarg/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/savygarg/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/savygarg/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/savygarg/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/savygarg/LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/savygarg/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/savygarg/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/savygarg/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/savygarg/LeetCode/tree/master/0099-recover-binary-search-tree) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/savygarg/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/savygarg/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/savygarg/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/savygarg/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/savygarg/LeetCode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/savygarg/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/savygarg/LeetCode/tree/master/0980-unique-paths-iii) |
