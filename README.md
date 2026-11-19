@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/savygarg/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/savygarg/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/savygarg/LeetCode/tree/master/0735-asteroid-collision) |
+| [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/savygarg/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/savygarg/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/savygarg/LeetCode/tree/master/0867-transpose-matrix) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/savygarg/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/savygarg/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
+| [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/savygarg/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/savygarg/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/savygarg/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
+| [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
@@ -775,8 +778,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/savygarg/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/savygarg/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/savygarg/LeetCode/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
