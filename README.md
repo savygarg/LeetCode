@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/savygarg/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/savygarg/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/savygarg/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/savygarg/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/savygarg/LeetCode/tree/master/0684-redundant-connection) |
 | [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
 | [1971-find-if-path-exists-in-graph](https://github.com/savygarg/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/savygarg/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Geometry
 |  |
 | ------- |
@@ -779,9 +782,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/savygarg/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/savygarg/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
+| [2360-longest-cycle-in-a-graph](https://github.com/savygarg/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/savygarg/LeetCode/tree/master/0207-course-schedule) |
 | [0851-loud-and-rich](https://github.com/savygarg/LeetCode/tree/master/0851-loud-and-rich) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/savygarg/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/savygarg/LeetCode/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
